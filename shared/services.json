@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Software Debugger",
+        "desc": "Debugger team"
+        
+    },
+    
+    {
+        "id": 2,
+        "name": "Software Developer",
+        "desc": "Developer team"
+        
+    },
+    
+    {
+        "id": 1,
+        "name": "Training lab",
+        "desc": "Teaching team"
+        
+    }
+]

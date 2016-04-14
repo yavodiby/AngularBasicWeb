@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "street": "Levilier",
+        "phone": "14-124-4585",
+        "country": "Cote d' Ivoire"
+    },
+    {
+        "id": 1,
+        "street": "Peace",
+        "phone": "14-124-4585",
+        "country": "Ghana"
+    },
+    {
+        "id": 1,
+        "street": "Levilier",
+        "phone": "14-124-4585",
+        "country": "Liberia"
+    }
+    
+]
